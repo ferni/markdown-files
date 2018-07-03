@@ -1,3 +1,9 @@
+---
+path: "/markdown-example"
+date: "2017-11-07"
+title: "A markdown example"
+---
+
 An h1 header
 ============
 
